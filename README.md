@@ -1,12 +1,12 @@
 # Hi dad, hi mom, hi wolrd 🌎
 
-## Student at DASC University, majoring in software engineering. 
+### Student at DASC University, majoring in software engineering. 
 
-## 💻 Programming Languages: C#, Java, Python
-## 🌐 Web Development: ASP.NET, HTML, CSS, JavaScript
-## 🛠️ Tools & Technologies: Cisco Packet Tracer, Photoshop, Adobe Animate
-## This is my personal web portfolio showcasing my projects and skills: https://pablodasc04.pages.dev
-## My Instagram account: https://www.instagram.com/whoispablo27.exe/
+### 💻 Programming Languages: C#, Java, Python
+### 🌐 Web Development: ASP.NET, HTML, CSS, JavaScript
+### 🛠️ Tools & Technologies: Cisco Packet Tracer, Photoshop, Adobe Animate
+### This is my personal web portfolio showcasing my projects and skills: https://pablodasc04.pages.dev
+### My Instagram account: https://www.instagram.com/whoispablo27.exe/
 
 ### During the current year, I've had the opportunity to collaborate with people applying these skills at one of the country's most important financial institutions, which has sparked my interest in focusing on CRM (Client Relationship Management), database design and management, and complementary telecommunications."
 
