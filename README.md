@@ -8,7 +8,7 @@ Student at DASC University, majoring in software engineering.<br><br>💻 Progra
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whoispablo27.py) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pablo27.py) 
 
 
 # 📊 GitHub Stats:
