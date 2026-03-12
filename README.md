@@ -26,7 +26,6 @@
 Student at DASC University, majoring in software engineering.<br><br>💻 Programming Languages: Python & C++ <br><br>🌐 Web Development: ASP.NET, HTML, CSS, JavaScript<br><br>🛠️ Tools & Technologies: Cisco Packet Tracer<br><br>My Instagram account: https://www.instagram.com/whoispablo27.py/<br><br>During the current year, I've had the opportunity to collaborate with people applying these skills at one of the country's most important financial institutions, which has sparked my interest in focusing on CRM (Client Relationship Management), database design and management, and complementary telecommunications."<br>🪵 I work in the wood industry, where I have been able to learn about how to carry out efficient production. Currently, a project is underway to implement software tools to automate some processes.<br>I really enjoy my career, however, I prefer to spend only the necessary time in front of a computer. In that case, I spend my time at the gym 🏋, with my friends, with my family, , riding bike 🚵, listening to rock and heavy metal🎸, or reading 📖.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pablo27exe&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pablo27exe&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo27exe&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -51,12 +50,7 @@ Student at DASC University, majoring in software engineering.<br><br>💻 Progra
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
     <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
+  
 </div>
 
 
