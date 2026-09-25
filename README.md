@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-🎓 **Software Engineer** graduated with honors as the **Top Student of the Class** (*Mejor de la generación*).
+🎓 **Software Engineer** graduated with honors as the **Top Student of the Class**.
 
 🔬 Currently specializing in **Data Analysis** & **Backend Development**, with a strong passion for transforming raw data into actionable insights and building scalable server-side systems. Always open to continuous learning and tech challenges.
 
