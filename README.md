@@ -1,4 +1,4 @@
-<h1 align="center"> Hi dad, hi mom, hi wolrd 🌎</h1>
+<h1 align="center"> Hi there, I'm Pablo!</h1>
 
 # 💻 Tech Stack:
 ###
@@ -6,8 +6,7 @@
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -18,13 +17,45 @@
 
 ###
 
-# 💫 About Me:
-Student at DASC University, majoring in software engineering.<br><br>💻 Programming Languages: Python & C++ <br><br>🌐 Web Development: ASP.NET, HTML, CSS, JavaScript<br><br>🛠️ Tools & Technologies: Cisco Packet Tracer<br><br>My Instagram account: https://www.instagram.com/whoispablo27.py/<br><br>During the current year, I've had the opportunity to collaborate with people applying these skills at one of the country's most important financial institutions, which has sparked my interest in focusing on CRM (Client Relationship Management), database design and management, and complementary telecommunications."<br>🪵 I work in the wood industry, where I have been able to learn about how to carry out efficient production. Currently, a project is underway to implement software tools to automate some processes.<br>I really enjoy my career, however, I prefer to spend only the necessary time in front of a computer. In that case, I spend my time at the gym 🏋, with my friends, with my family, , riding bike 🚵, listening to rock and heavy metal🎸, or reading 📖.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whoispablo27.py/)
 
-# 📊 GitHub Stats:
-<div align="center">
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo27exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+### 🚀 About Me
+
+🎓 **Software Engineer** graduated with honors as the **Top Student of the Class** (*Mejor de la generación*).
+
+🔬 Currently specializing in **Data Analysis** & **Backend Development**, with a strong passion for transforming raw data into actionable insights and building scalable server-side systems. Always open to continuous learning and tech challenges.
+
+💼 **Recent Experience:**
+Former **Data Analyst Intern at BBVA Mexico**, where I applied data manipulation, automation, and reporting optimization in real-world financial workflows.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### **Data & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=SQL&logoColor=white)
+
+#### **Backend & Web Development**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### ⚡ Beyond the Screen
+
+When I'm away from the keyboard, you can find me:
+* 🏋️‍♂️ Training at the gym or cycling 🚵
+* 🎸 Listening to Rock & Heavy Metal
+* 📖 Reading good literature
+* 🤝 Spending quality time with family & friends
 </div>
 
 ###
