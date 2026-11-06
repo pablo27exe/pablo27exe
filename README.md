@@ -46,20 +46,3 @@ Former **Data Analyst Intern at BBVA Mexico**, where I applied data manipulation
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### ⚡ Beyond the Screen
-
-When I'm away from the keyboard, you can find me:
-* 🏋️‍♂️ Training at the gym or cycling 🚵
-* 🎸 Listening to Rock & Heavy Metal
-* 📖 Reading good literature
-* 🤝 Spending quality time with family & friends
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
